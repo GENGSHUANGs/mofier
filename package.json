@@ -29,7 +29,7 @@
     "mysql": "^2.13.0",
     "node-fetch": "^1.6.3",
     "pretty-error": "^2.1.0",
-    "redis": "^2.7.1",
+    "redis": "^3.1.1",
     "redlock": "^2.1.0",
     "rxjs": "^5.5.5",
     "whatwg-fetch": "^2.0.3"
